@@ -34,8 +34,8 @@
 ### CP Progress:
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/_dormammu_?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/souravbiswassanto/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/Hiro_hamada?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/_dormammu_/cf-stats/main/output/light_card.svg" />
 </p>
 
 ### Problem-Solving-Stats
