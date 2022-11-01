@@ -31,11 +31,17 @@
   <li> 💼 Open to Work for <b>Softwere Engineer</b> Role </li>
 </ul>
 
+### My Achievments
+<ul>
+  <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest </li>
+  <li> 🎓<b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
+  <li> Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
+</ul>
+
 ### CP Progress:
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Hiro_hamada?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/_dormammu_/cf-stats/main/output/light_card.svg" />
 </p>
 
 ### Problem-Solving-Stats
