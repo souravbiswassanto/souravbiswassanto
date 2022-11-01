@@ -26,6 +26,8 @@
   <li> Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
   <li> Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
     <a href="https://leetcode.com">Leetcode</a> </li>
+  <li> Learning Various Data Structures and Algorithms </li>
+  <li> Working on Final Year Projects, developing using django </li>
 </ul>
 
 <!--
