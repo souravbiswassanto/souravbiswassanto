@@ -22,7 +22,7 @@
 </p>
 #### Currently I'm,
 <ul>
-  <li> pursuing a B.Sc degree fro <a href = "https://bu.ac.bd/">University of Barishal<\a> <\li>
+  <li> pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
 <\ul>
 
 <!--
