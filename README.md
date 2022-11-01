@@ -20,8 +20,10 @@
     <img src="https://komarev.com/ghpvc/?username=souravbiswassanto" alt="visitors" />
   </a>
 </p>
-
-### Hi there 👋
+#### Currently I'm,
+<ul>
+  <li> pursuing a B.Sc degree fro <a href = "https://bu.ac.bd/">University of Barishal<\a> <\li>
+<\ul>
 
 <!--
 **souravbiswassanto/souravbiswassanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
