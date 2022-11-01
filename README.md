@@ -31,6 +31,12 @@
   <li> 💼 Open to Work for <b>Softwere Engineer</b> Role </li>
 </ul>
 
+### CP Progress:
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/_dormammu_?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/souravbiswassanto/cf-stats/main/output/light_card.svg" />
+</p>
 
 ### Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating | Contests|
