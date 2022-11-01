@@ -38,12 +38,6 @@
   <li> Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
 </ul>
 
-### CP Progress:
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/Hiro_hamada?theme=light&font=Karma&ext=contest" />
-</p>
-
 ### Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating | Contests|
 | -- | -------- | ----------- | -------| -------|          
