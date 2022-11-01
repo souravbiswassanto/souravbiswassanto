@@ -28,7 +28,7 @@
     <a href="https://leetcode.com">Leetcode</a> </li>
   <li> Learning Various Data Structures and Algorithms </li>
   <li> Working on Final Year Projects, developing using django </li>
-  <li> 💼 Open to Work for **Softwere Engineer** Role </li>
+  <li> 💼 Open to Work for <b>Softwere Engineer</b> Role </li>
 </ul>
 
 <!--
