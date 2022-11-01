@@ -23,7 +23,7 @@
 #### Currently I'm,
 <ul>
   <li> pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
-<\ul>
+</ul>
 
 <!--
 **souravbiswassanto/souravbiswassanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
