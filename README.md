@@ -33,7 +33,7 @@
 
 ### My Achievments
 <ul>
-  <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2022</li>
+  <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
   <li> 🎓<b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
   <li> Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
 </ul>
