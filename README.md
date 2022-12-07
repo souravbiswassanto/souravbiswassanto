@@ -29,7 +29,7 @@
   <li> 📖Learning Various Data Structures and Algorithms </li>
   <li> 📗Working on Final Year Projects, developing using django </li>
   <li> 💼 Open to Work for <b>Software Engineer</b> Role </li>
-  <li> Linked-in Profile link <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Linked-in</a></li>
+  <li> 💼Linked-in Profile <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Link.</a></li>
 </ul>
 
 ### My Achievments
