@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
-<h1 align="left">Currently I am working as a Software Engineer(Backend) at <a href="https://appscode.com/">Appscode Inc.</a></h1>
 
 <p align="left">
   <a href="https://leetcode.com/Hiro_hamada/">
@@ -23,6 +22,8 @@
 </p>
 <h3> Currently I'm, </h3>
 <ul>
+  
+<li>Currently I am working as a Software Engineer(Backend) at <a href="https://appscode.com/">Appscode Inc.</a></li>
   <li> 🎓Pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
   <li> 💡Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
   <li> 💡Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
