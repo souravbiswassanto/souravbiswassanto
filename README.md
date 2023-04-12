@@ -10,9 +10,7 @@
   <a href="https://codechef.com/users/hiro_hamada2/">
     <img src="https://cp-badges.deta.dev/codechef/hiro_hamada2" alt="CodeChef" />
   </a>
-  <a href="https://atcoder.jp/users/Hiro_hamada/">
-    <img src="https://cp-badges.deta.dev/atcoder/Hiro_hamada" alt="Atcoder" />
-  </a>
+  
   <a href="https://github.com/souravbiswassanto?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/souravbiswassanto?color=green&logo=github">
   </a>
