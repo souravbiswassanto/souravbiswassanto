@@ -48,7 +48,7 @@
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hiro_hamada](https://leetcode.com/Hiro_hamada/)| 145 | 1824 | 5|
 | Interviewbit | [souravcse4bu_d846b9a99d1c](https://www.interviewbit.com/profile/souravcse4bu_d846b9a99d1c)| 65 | N/A | 2|
-| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 427 | 1676 | 106|
+| Codeforces | [_dormammu_](https://codeforces.com/profile/_dormammu_)| 427 | 1789 | 106|
 | Codeforces | [Hidden Account. Not eager to provide Handle](https://codeforces.com/profile/)| 400 | Won't Say |57|
 | Codeforces | [Conficker](https://codeforces.com/profile/Conficker)| 205 | 1609 |33|
 | Codeforces | [sourav_biswas_santo](https://codeforces.com/profile/sourav_biswas_santo)| 216 | 1395 |21|
