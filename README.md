@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
+<h1 align="left">Hi 👋, I'm a Backend Software Engineer at <a href="https://appscode.com/">Appscode Inc.</a></h1>
 
 <p align="left">
   <a href="https://leetcode.com/Hiro_hamada/">
@@ -20,27 +20,27 @@
 </p>
 <h3> Currently I'm, </h3>
 <ul>
-  
-  <li>💼Working as a Software Engineer(Backend) at <a href="https://appscode.com/">Appscode Inc.</a></li>
-  <li> 📖Learning Golang, Docker, K8s </li>
-  <li> 🎓Pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
-  <li> 💡Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
+  <li> 💡 Working as a Software Engineer(Backend) at <a href="https://appscode.com/">Appscode Inc.</a> since April 3, 2023</li>
+  <li> 📖 Learning Golang, Docker, K8s </li>
+  <li> 🎓 Pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
+  <li> 💡 Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
+  <li> 💡 Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
     <a href="https://leetcode.com">Leetcode</a> </li>
-  <li> 📖Learning Various Data Structures and Algorithms </li>
-  <li> 📗Working on Final Year Projects, developing using django </li>
+  <li> 📖 Learning Various Data Structures and Algorithms </li>
+  <li> 📗 Working on Final Year Projects, developing using django </li>
   <li> 💼 Open to Work for <b>Software Engineer</b> Role </li>
   <li> 💼 Linked-in Profile <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Link.</a></li>
 </ul>
 
 ### My Achievments
 <ul>
-  <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
-  <li> 🎓<b>Ranked 14th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2022</li>
+  <li> 🎓 <b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
+  <li> 🎓 <b>Ranked 13th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2022</li>
   
-  <li> 🎓<b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
-  <li> 🎓<b>Ranked 37th </b> in ACM ICPC ASIA WEST Continent Final Programming Contest 2021</li>
-  <li> 👕Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
+  <li> 🎓 <b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
+  <li> 🎓 <b>Ranked 37th </b> in ACM ICPC ASIA WEST Continent Final Programming Contest 2021</li>
+  <li> 🎓 <b>Ranked 50th </b> in ACM ICPC ASIA WEST Continent Final Programming Contest 2022</li>
+  <li> 👕 Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
 </ul>
 
 ### Problem-Solving-Stats
