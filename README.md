@@ -1,82 +1,54 @@
-
-### Hey I'm Saurov Chandra Biswas 👋, 
-
-
-- 🔭 I’m currently working at [AppsCode](https://appscode.com/) as a Software Engineer
-- 💬 Technical focus - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Redis :zap:  Go :star: Vault :gem: Cluster-API :anchor:
-- 📫 How to reach me: shoot an email at <b>abdullah.alshaad@gmail.com</b>
-
- <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img width="auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Shaad7.Shaad7" />
- </a>
-  <a href="https://visitor-badge.laobi.icu/">
-        <img width="auto"  alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
- </a>
-
-
-### GitHub Activity 
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#711](https://github.com/kubedb/docs/pull/711) in [kubedb/docs](https://github.com/kubedb/docs)
-2. 💪 Opened PR [#402](https://github.com/appscode/static-assets/pull/402) in [appscode/static-assets](https://github.com/appscode/static-assets)
-3. 💪 Opened PR [#401](https://github.com/appscode/static-assets/pull/401) in [appscode/static-assets](https://github.com/appscode/static-assets)
-4. 💪 Opened PR [#400](https://github.com/appscode/static-assets/pull/400) in [appscode/static-assets](https://github.com/appscode/static-assets)
-5. 🎉 Merged PR [#543](https://github.com/appscode-cloud/installer/pull/543) in [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
-<!--END_SECTION:activity-->
-
-### GitHub Stats
-
-[![Shaad's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdullahalshaad&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahalshaad&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages & Tools
+<h1 align="left">Hi 👋, I'm a Backend Software Engineer at <a href="https://appscode.com/">Appscode Inc.</a></h1>
 
 <p align="left">
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    </a>
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    </a>
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-    </a>
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
-    </a>
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
-    </a>                                                                                                                                     
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-    </a>
-    <a href="https://github.com/AbdullahAlShaad/">
-        <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />
-    </a>
+
+  <a href="https://github.com/souravbiswassanto?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/souravbiswassanto?color=green&logo=github">
+  </a>
+  <a href="https://github.com/souravbiswassanto/">
+    <img src="https://komarev.com/ghpvc/?username=souravbiswassanto" alt="visitors" />
+  </a>
 </p>
-                                                                                                                          
+<h3> Currently I'm, </h3>
+<ul>
+  <li> 💡 Working as a Software Engineer(Backend) at <a href="https://appscode.com/">Appscode Inc.</a> since April 3, 2023</li>
+  <li> 📖 Learning Golang, Docker, Kubernetes, Prometheus, Grafana (Beginner) </li>
+  <li> 💼 Writing Custom Operator for my assigned project at <a href="https://appscode.com/">Appscode Inc.</a> using Go language.
+  <li> 💼 Handful experience with API, https protocols, TLS and MTLS, basic system design. </li>
+  <li> 🎓 Pursued a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> with CGPA 3.56/4.0</li>
+  <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
+  <li> 💡 Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
+    <a href="https://leetcode.com">Leetcode</a> </li>
+  <li> 📖 Learning Various Data Structures and Algorithms </li>
+  <li> 📗 Worked on Final Year Projects, developed using django </li>
+  <li> 💼 <s>Open to Work for <b>Software Engineer</b> Role</s> </li>
+  <li> 💼 Linked-in Profile <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Link.</a></li>
+</ul>
+
+### My Achievments
+<ul>
+  <li> 🎓 <b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
+  <li> 🎓 <b>Ranked 13th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2022</li>
+  
+  <li> 🎓 <b>Ranked 15th and Divisional Champion</b> in <a href="https://buet.ac.bd">BUET</a> IUPC 2022, Dhaka, Bangladesh</li>
+  <li> 🎓 <b>Ranked 37th </b> in ACM ICPC ASIA WEST <b>Continent Final</b> Programming Contest 2021</li>
+  <li> 🎓 <b>Ranked 50th </b> in ACM ICPC ASIA WEST <b>Continent Final</b> Programming Contest 2022</li>
+  <li> 👕 Won T-shirts from Meta Hackercup 2022 and Codechef Snackdown 2021. </li>
+</ul>
 
 
 
-### Find Me On
-<p align="left">
-    <a href="https://abdullah.alshaad.github.io/">
-        <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-     <a href="https://codeforces.com/profile/shaad7">
-        <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com/Shaad7/">
-        <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    </a>
-    <a href="https://stackoverflow.com/users/8172698/shaad7">
-        <img  alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    </a>
-</p>
+<!--
+**souravbiswassanto/souravbiswassanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Connect with me
+Here are some ideas to get you started:
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/abdullah-al-shaad-5111a0190/">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
