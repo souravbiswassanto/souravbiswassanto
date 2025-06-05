@@ -21,9 +21,14 @@
     <a href="https://leetcode.com">Leetcode</a> </li>
   <li> 📖 Learning Various Data Structures and Algorithms </li>
   <li> 📗 Worked on Final Year Projects, developed using django </li>
-  <li> 💼 <s>Open to Work for <b>Software Engineer</b> Role</s> </li>
   <li> 💼 Linked-in Profile <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Link.</a></li>
 </ul>
+
+### GitHub Stats
+
+[![Saurov's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souravbiswassanto&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravbiswassanto&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Achievments
 <ul>
