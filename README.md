@@ -21,7 +21,6 @@
     <a href="https://leetcode.com">Leetcode</a> </li>
   <li> 📖 Learning Various Data Structures and Algorithms </li>
   <li> 📗 Worked on Final Year Projects, developed using django </li>
-  <li> 💼 <s>Open to Work for <b>Software Engineer</b> Role</s> </li>
   <li> 💼 Linked-in Profile <a href ="https://www.linkedin.com/in/sourav-biswas-santo/">Link.</a></li>
 </ul>
 
