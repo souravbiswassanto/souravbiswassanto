@@ -28,8 +28,6 @@
 
 [![Saurov's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souravbiswassanto&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravbiswassanto&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Achievments
 <ul>
   <li> 🎓 <b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
