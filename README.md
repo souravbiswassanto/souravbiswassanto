@@ -64,7 +64,7 @@ I’m a passionate **Backend Software Engineer** currently rocking it at [Appsco
 
 ### [KubeDB-PostgreSQL](https://kubedb.com/kubernetes/databases/run-and-manage-postgres-on-kubernetes/)
 <small> Jun 2023 - Present </small> | <small> Appscode Inc </small> <br>
-KubeDB Managed PostgreSQL DBaaS which lets you run production grade PostgreSQL databases in kubernetes. <br>
+KubeDB Managed Service which lets you run production grade PostgreSQL databases in kubernetes. <br>
 - Provisioning, Clustering, Disaster Recovery, Scaling, Upgrading support for PostgreSQL in Kubernetes Environment.
 - Provision a PostgreSQL Database within a minute in kubernetes environment.
 - Fully Automated failover support ensuring near zero downtime.
@@ -72,7 +72,7 @@ KubeDB Managed PostgreSQL DBaaS which lets you run production grade PostgreSQL d
 
 ### [KubeDB-Oracle](https://github.com/kubedb/installer/pull/1711)
 <small> July 2024 - Present </small>  | <small> Appscode Inc </small> <br>
-KubeDB Managed Oracle DBaaS which lets you run production grade Oracle databases in kubernetes. <br>
+KubeDB Managed Service which lets you run production grade Oracle databases in kubernetes. <br>
 - Manage the Lifecycle of Oracle Database in Kubernetes Environment.
 - Fully Automated failover support and database clustering.
 
