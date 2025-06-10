@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I’m Sourav Chandra Biswas</h1>
+<h1 align="left">Hi 👋, I’m Saurov Chandra Biswas</h1>
 <p align="left">
   <a href="https://github.com/souravbiswassanto?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/souravbiswassanto?color=green&logo=github">
