@@ -97,7 +97,7 @@ A RESTful book management service built with Go, Chi, JWT, and Kubernetes.
 - Designed and implemented JWT-based authentication/authorization.  
 - Containerized the application with Docker and deployed on Kubernetes via Helm charts and Makefile—demonstrating end-to-end CI/CD workflows.
 
-### [Concurrent-File-Server]([https://github.com/souravbiswassanto/api-bookserver](https://github.com/souravbiswassanto/concurrent-file-server))  
+### [Concurrent-File-Server](https://github.com/souravbiswassanto/concurrent-file-server)
 <small>November 2024 - December 2024</small>  
 - Developed a high-performance concurrent file uploader using Golang’s goroutines and channels, achieving 300\% faster upload speeds compared to sequential methods.
 
