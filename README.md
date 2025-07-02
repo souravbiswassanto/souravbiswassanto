@@ -22,13 +22,13 @@
 
 
 ---
-## 🚀 About Me
+## About Me
 
-I’m a passionate **Backend Software Engineer** currently rocking it at [Appscode Inc.](https://appscode.com/) since April 2023. With over 2 years and 3 months of hands-on experience building highly scalable, cloud-native backends in Go, I thrive on designing distributed systems, automating infrastructure, and ensuring rock-solid reliability in production environments. I have notable success on Competitive Programming platforms such as Codeforces, CodeChef, and LeetCode—or competing in ACM ICPC regional contests!
+I’m a passionate **Backend Software Engineer** currently rocking it at [Appscode Inc.](https://appscode.com/) since April 2023. With over 2 years and 4 months of hands-on experience building highly scalable, cloud-native backends in Go, I thrive on designing distributed systems, automating infrastructure, and ensuring rock-solid reliability in production environments. I have notable success on Competitive Programming platforms such as Codeforces, CodeChef, and LeetCode—or competing in ACM ICPC regional contests!
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages & Databases:** Go, C++, Python, Bash, PostgreSQL  
 - **Cloud & DevOps:** Docker, Kubernetes, Helm, AWS, GCP, Linux, Terraform, Istio  
@@ -39,7 +39,7 @@ I’m a passionate **Backend Software Engineer** currently rocking it at [Appsco
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Software Engineer** — Appscode Inc. (Dhaka, Bangladesh)  
 <small>April 2023 – Present</small>
@@ -60,7 +60,7 @@ I’m a passionate **Backend Software Engineer** currently rocking it at [Appsco
 
 ---
 
-## 🌟 Projects
+## Projects
 
 ### [KubeDB-PostgreSQL](https://kubedb.com/kubernetes/databases/run-and-manage-postgres-on-kubernetes/)
 <small> Jun 2023 - Present </small> | <small> Appscode Inc </small> <br>
@@ -104,7 +104,7 @@ A RESTful book management service built with Go, Chi, JWT, and Kubernetes.
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Barishal** — Bachelor of Science in Computer Science & Engineering  
 <small>Jan 2017 – Mar 2023 | CGPA: 3.56/4.0</small>  
@@ -112,7 +112,7 @@ A RESTful book management service built with Go, Chi, JWT, and Kubernetes.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - **ACM ICPC Dhaka Regional Programming Contest:**  
   - Ranked 11th (2021) & 13th (2022) out of 165+ teams (Divisional Champion)  
@@ -127,7 +127,7 @@ A RESTful book management service built with Go, Chi, JWT, and Kubernetes.
 ---
 
 
-## 📫 Contact Me
+## Contact Me
 
 - 📧   Email: [sourav.cse4.bu@gmail.com](mailto:sourav.cse4.bu@gmail.com)  
 - 🌐   LinkedIn: [linkedin.com/in/sourav-biswas-santo](https://linkedin.com/in/sourav-biswas-santo)  
