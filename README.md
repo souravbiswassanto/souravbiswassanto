@@ -24,7 +24,7 @@
 ---
 ## About Me
 
-I’m a passionate **Backend Software Engineer** currently rocking it at [Appscode Inc.](https://appscode.com/) since April 2023. With over 2 years and 4 months of hands-on experience building highly scalable, cloud-native backends in Go, I thrive on designing distributed systems, automating infrastructure, and ensuring rock-solid reliability in production environments. I have notable success on Competitive Programming platforms such as Codeforces, CodeChef, and LeetCode—or competing in ACM ICPC regional contests!
+I’m a passionate **Backend Software Engineer** currently rocking it at [Appscode Inc.](https://appscode.com/) since April 2023. With over 2 years and 6 months of hands-on experience building highly scalable, cloud-native backends in Go, I thrive on designing distributed systems, automating infrastructure, and ensuring rock-solid reliability in production environments. I have notable success on Competitive Programming platforms such as Codeforces, CodeChef, and LeetCode—or competing in ACM ICPC regional contests!
 
 ---
 
